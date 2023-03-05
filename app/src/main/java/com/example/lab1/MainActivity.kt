@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    fun circleCalculate(view: View) {
+    fun circleCalculated(view: View) {
         val editText = findViewById<EditText>(R.id.edit_text_number_circle)
         val text = editText.text.toString()
         var radius = text.toDouble()
