@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="enter_side">Enter side: </string>
+    <string name="area">Area</string>
+    <string name="circle">Circle</string>
+    <string name="square">Square</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="_0">0</string>
+    <string name="equals">=</string>
+    <string name="area_circle">Area = 0</string>
+    <string name="area_square">Area = 0</string>
+</resources>
